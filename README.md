@@ -7,7 +7,7 @@ Currently `Co-Founder - CTO - Software Architect` at [Pling](https://pling.net.b
 
 Also has experience not only in working on JavaScript problems, but also any kind of software and in sharing his applied learning with others.
 
-You can find him on Twitter as @felipekm, on his [website](https://felipekm.me) and — if you're into Instagram you can found him as as @felipekm__.
+You can find him on Twitter as @felipekm, on his [website](https://felipekm.me) and — if you're into Instagram as @felipekm__.
 
 Would you like to find me?
 
