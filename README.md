@@ -1,5 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img alt="Mercado in Action" src="https://media-exp1.licdn.com/dms/image/C4D1BAQE5YC5OL09Jag/company-background_10000/0?e=2159024400&v=beta&t=XPQz52zoaUew2xolBL0Slq5QYXv3_OOKkLiGxJH7utc">
+</p>
 
+### Hi there 👋
 
 Felipe Kautzmann is a Software Engineer from Brazil (🇧🇷) with 15yrs+ of experience in IT sector.
 
