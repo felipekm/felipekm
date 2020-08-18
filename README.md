@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Felipe Kautzmann is a Software Engineer from Brazil 🇧🇷 with 15yrs+ of experience in IT sector.
+Felipe Kautzmann is a Software Engineer from Brazil 🇧🇷 with 15yrs+ of experience in IT industry.
 
 Currently `Co-Founder - CTO - Software Architect` at [Pling](https://pling.net.br).
 
