@@ -6,7 +6,7 @@
 
 Felipe Kautzmann is a Software Engineer from Brazil 🇧🇷 with 15yrs+ of experience in IT industry.
 
-Currently `Co-Founder - CTO - Software Architect` at [Pling](https://pling.net.br).
+Currently as `Head of IT` at [Pling](https://pling.net.br).
 
 Also has experience not only in working on JavaScript problems, but also any kind of software and in sharing his applied learning with others.
 
