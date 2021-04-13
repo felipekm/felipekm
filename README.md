@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as `CTO` at [Pling](https://pling.net.br).
-- 💬 AMA: JavaScript, .NET, NoSQL and Relational Databases, Web Services, Micro Services, Web Performance, Cloud engineering
-- 📫 How to reach me: Twitter
+- 💬 AMA: JavaScript, .NET, NoSQL and Relational Databases, Web Services, Micro Services, Web Performance, Cloud engineering.
+- 📫 How to reach me: Mostly email but you can reach me in any plataform.
 - 😄 Pronouns: he/him
 - ⚡️ Fun fact: Shreding computers since 90's.
 
