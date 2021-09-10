@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello there 👋
 
-- 🔭 I’m currently working as `CTO` at [Pling](https://pling.pro).
+- 🔭 I’m currently working as hands-on CTO at [Pling](https://pling.pro).
 - 💬 AMA: JavaScript, .NET, NoSQL and Relational Databases, Web Services, Micro Services, Web Performance, Cloud engineering.
 - 📫 How to reach me: Mostly email but you can reach me in any plataform.
 - 😄 Pronouns: he/him
 - ⚡️ Fun fact: Shreding computers since 90's.
 
-#### Social
+### Social
 
 - [Website](https://felipekm.me)
 - [Twitter](https://twitter.com/felipekm)
