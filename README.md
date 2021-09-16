@@ -4,7 +4,7 @@
 - 💬 AMA: JavaScript, .NET, NoSQL and Relational Databases, Web Services, Micro Services, Web Performance, Cloud engineering.
 - 📫 How to reach me: Mostly email but you can reach me in any plataform.
 - 😄 Pronouns: he/him
-- ⚡️ Fun fact: Shreding computers since 90's.
+- ⚡️ Fun facts: My first PC was a [XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) in the 90's, and when I was 16 years old I sadly burned my first computer an [AMD K62 500](https://en.wikipedia.org/wiki/AMD_K6-2).
 
 ### Social
 
