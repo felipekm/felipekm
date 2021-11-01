@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as a hands-on CTO at [Pling](https://pling.pro).
+- 🔭 I’m currently working as a Full-stack kdeveloper at [PayPal](https://paypal.com).
 - 💬 AMA: JavaScript, .NET, NoSQL and Relational Databases, Web Services, Micro Services, Web Performance, Cloud engineering.
 - 📫 How to reach me: Mostly email but you can reach me in any plataform.
 - 😄 Pronouns: he/him
