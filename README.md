@@ -6,7 +6,6 @@
 - 🏄‍♂️ Lover of board sports 🛹
 - ⚡️ My first PC was a [XT](https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT) in the '90s
 - 🔥 Burned my first computer when I was 16 years old, an [AMD K62 500](https://en.wikipedia.org/wiki/AMD_K6-2).
-- 🎵 Works listening Techno on Fridays.
 
 ### Social
 
