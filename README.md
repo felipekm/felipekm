@@ -1,11 +1,12 @@
 ### Hello there 👋
 
-I am a Web Developer specialist with more than 15yrs of experience, with broad experience working with **JavaScript** as a **Fullstack developer** using ReactJS, NodeJS, AngularJS, and others. I also have experience working with Databases (NoSQL and SQL), NGINX, .NET, Golang, Docker, Terraform, Swift, C, C++, Delphi, and PHP.
+I have worked in the software industry since 2005 and remotely since 2018.
+With broad experience developing Web applications, Web servers (monoliths), Microservices, APIs, non-relational and relational Databases, Continuous Integration, and Continuous Delivery. All this experience comes from a wide range of practical projects.
 
 ### Social
 
 - [Website](https://felipekm.me)
-- [Twitter](https://twitter.com/felipekm)
+- [X](https://x.com/felipekm)
 - [Linkedin](https://linkedin.com/in/felipekm)
 - [Codepen](https://codepen.io/felipekm)
 - [Instagram](https://instagram.com/fkautzmann)
