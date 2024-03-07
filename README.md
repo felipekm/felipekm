@@ -5,8 +5,8 @@ With broad experience developing Web applications, Web servers (monoliths), Micr
 
 ### Social
 
-- [Website](https://felipekm.me)
 - [X](https://x.com/felipekm)
+- [Website](https://felipekm.me)
 - [Linkedin](https://linkedin.com/in/felipekm)
 - [Codepen](https://codepen.io/felipekm)
 - [Instagram](https://instagram.com/fkautzmann)
