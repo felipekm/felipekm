@@ -1,17 +1,18 @@
 ### Hello there 👋
 
-I have been working in the software industry since 2005 and remotely since 2018. As son of a programmer, I got over computers early. Passionate about new technologies and the latest techniques for crafting software.
+I’ve been in the software industry since 2005 and working remotely since 2018. Growing up as son of a programmer sparked my early fascination with computers before I complete 7 years. I’m passionate about new technologies and building robust software.
 
-I consider myself a challenge-driven professional who understands the importance of all project aspects, using the acquired experience to deliver reasonable resolutions, with a broad background and experience developing Web applications, Web servers (monoliths), Microservices, APIs, non-relational and relational Databases, Continuous Integration, and Continuous Delivery. All this experience comes from a wide range of practical projects.
+As a challenge-driven professional, I apply my extensive experience in Web applications, Web servers, Microservices, APIs, Databases, and CI/CD pipelines to deliver effective solutions. 
 
-I love people and have experience leading remotely distributed teams using Agile, SCRUM, and Kanban (Jira, Zenhub, GitHub issues). I'm constantly pushing myself to create a collaborative and supportive environment.
+My work spans diverse projects, emphasizing a holistic approach to development.
+I also have a strong background in leading remote teams using Agile methodologies (SCRUM, Kanban) and tools like Jira, Zenhub, and GitHub issues, fostering collaborative environments that drive success.
 
 ### Feel free to get in touch
 
 - [X](https://x.com/felipekm)
-- [Website](https://felipekm.me)
+- [Website](https://felipekm.dev)
 - [Linkedin](https://linkedin.com/in/felipekm)
 - [Codepen](https://codepen.io/felipekm)
 - [Instagram](https://instagram.com/fkautzmann)
 
-I appreciate your visit.
+Thanks for your visit.
