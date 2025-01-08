@@ -12,6 +12,5 @@ I also have a strong background in leading remote teams using Agile methodologie
 - [Website](https://felipekm.dev)
 - [Linkedin](https://linkedin.com/in/felipekm)
 - [Codepen](https://codepen.io/felipekm)
-- [Instagram](https://instagram.com/fkautzmann)
 
 Thanks for your visit.
