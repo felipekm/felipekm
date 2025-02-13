@@ -1,16 +1,52 @@
+
 ### Hello there 👋
 
-I’ve been in the software industry since 2005 and working remotely since 2018. Growing up as son of a programmer sparked my early fascination with computers before I completed 7 years in the 90s. Basically, 
-I am passionate about new technologies and building robust software, and as a challenge-driven professional, I apply my extensive experience in Web applications, Web servers, Microservices, APIs, Databases, and CI/CD pipelines to deliver effective solutions. 
+> Technology is not the goal. It’s the means to achieve it.
 
-My work spans diverse projects, emphasizing a holistic approach to development.
-I also have a strong background in leading remote teams using Agile methodologies (SCRUM, Kanban) and tools like Jira, Zenhub, and GitHub issues, fostering collaborative environments that drive success.
+**Passionate Backend and Frontend Engineer specialist with over 20 years of experience across diverse technologies.**
 
-### Feel free to get in touch
+With a deep, comprehensive skill set in designing and building end-to-end SaaS platforms, from infrastructure and server architecture to full-stack and SDK development, database management, and cloud integration.
+Also experienced in managing distributed multi-cultural engineering teams.
 
-- [X](https://x.com/felipekm)
-- [Website](https://felipekm.dev)
-- [Linkedin](https://linkedin.com/in/felipekm)
-- [Codepen](https://codepen.io/felipekm)
+#### 👔 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝘃𝗮𝗹𝘂𝗲𝘀
 
-Thanks for your visit.
+* Expertise across Web applications, DeFi, and distributed systems, dedicated to scalable, impactful solutions.
+* Proven leadership in guiding remote-first teams to success, fostering collaboration, agility, and innovation.
+* Broad understanding of financial tech, focusing on stablecoins (USDC, USDT, EURC) for faster, more secure transactions.
+* Proficiency in end-to-end SaaS platforms: infrastructure, server setup, frontend applications, database, and cloud integration.
+
+#### 🫂 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘃𝗮𝗹𝘂𝗲𝘀
+
+* Integrity and transparency as the foundation of every project and partnership.
+*  Commitment to inclusive, empathic leadership that values every team member's perspective.
+*  Belief in the power of technology to drive economic opportunity and bridge financial divides.
+*  Advocacy for diversity and inclusion, recognizing their critical role in creating resilient, forward-thinking solutions.
+*  Passion for continuous learning and adaptability, essential for driving impactful change in the evolving landscape of tech-driven finance.
+
+#### ⚙️ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
+
+* C#
+* C++
+* Java
+* Linux
+* Vue.js
+* Node.js
+* React.js
+* Angular.js
+* RESTful APIS
+* Docker and Kubernetes
+* AWS (Amazon Web Services)
+* GCP (Google Cloud Platform)
+* CI & CD (Jenkins, Github Actions, Circle CI)
+* ORM systems such as Hibernate, Prisma, Sequelize, Mongoose
+* NoSQL databases such as MongoDB, DocumentDB, MariaDB
+* SQL databases such as Oracle, SQL Server, PostgreSQL, MySQL
+
+### 📭 Feel free to get in touch
+
+* [X](https://x.com/felipekm)
+* [Website](https://felipekm.dev)
+* [Linkedin](https://linkedin.com/in/felipekm)
+* [Codepen](https://codepen.io/felipekm)
+
+#### 🎩 Thanks for your visit 
