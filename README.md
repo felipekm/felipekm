@@ -1,7 +1,7 @@
 
 ### Hello there 👋
 
-> Technology is not the goal. It’s the means to achieve it.
+> Programming languages are not the goal. There are the means to achieve it.
 
 **Passionate Backend and Frontend Engineer specialist with over 20 years of experience across diverse technologies.**
 
