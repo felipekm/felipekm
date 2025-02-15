@@ -33,6 +33,7 @@ Also experienced in managing distributed multi-cultural engineering teams.
 * Node.js
 * React.js
 * Angular.js
+* JavaScript
 * RESTful APIS
 * Docker and Kubernetes
 * AWS (Amazon Web Services)
