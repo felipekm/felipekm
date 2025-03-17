@@ -1,6 +1,4 @@
-
-### Hello there 👋
-
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Hi there! I'm Felipe.
 > Programming languages are not the goal. They are the means to achieve it.
 
 **Passionate Backend and Frontend Engineer specialist with over 20 years of experience across diverse technologies.**
@@ -45,9 +43,16 @@ Also experienced in managing distributed multi-cultural engineering teams.
 
 ### 📭 Feel free to get in touch
 
-* [X](https://x.com/felipekm)
-* [Website](https://felipekm.dev)
-* [Linkedin](https://linkedin.com/in/felipekm)
-* [Codepen](https://codepen.io/felipekm)
+<a href="https://twitter.com/felipekm">
+  <img src="https://cdn.worldvectorlogo.com/logos/x-2.svg" title="X" alt="X Account" width="40" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/felipekm">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="40" />
+</a>
+&nbsp;
+<a href="https://codepen.io/felipekm">
+  <img src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" title="Codepen" alt="Codepen Account" width="40" />
+</a>
 
 #### 🎩 Thanks for your visit 
