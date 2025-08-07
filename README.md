@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Hi there! I'm Felipe.
+Hey, I'm Felipe.
 > Programming languages are not the goal. They are the means to achieve it.
 
 **Passionate Backend and Frontend Engineer specialist with over 20 years of experience across diverse technologies.**
